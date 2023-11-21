@@ -1,0 +1,18 @@
+2023-11-20 19:11:29.100 +01:00 [INF] Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller RegistrationController (Praxisarbeit).
+2023-11-20 19:11:33.201 +01:00 [INF] Executed DbCommand (88ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[OrderID], [r].[CreateDate], [r].[Email], [r].[Name], [r].[Phone], [r].[PickupDate], [r].[Priority], [r].[Service]
+FROM [Registrations] AS [r]
+2023-11-20 19:11:33.288 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Praxisarbeit.Model.RegistrationModel, Praxisarbeit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-20 19:11:33.360 +01:00 [INF] Executed action RegistrationController.Get (Praxisarbeit) in 4237.3666ms
+2023-11-20 19:11:33.368 +01:00 [INF] Executed endpoint 'RegistrationController.Get (Praxisarbeit)'
+2023-11-20 19:11:33.409 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7113/api/Registration - - - 200 - application/json;+charset=utf-8 5439.5309ms
+2023-11-20 19:11:38.694 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7113/api/Registration - -
+2023-11-20 19:11:38.709 +01:00 [INF] Executing endpoint 'RegistrationController.Get (Praxisarbeit)'
+2023-11-20 19:11:38.716 +01:00 [INF] Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller RegistrationController (Praxisarbeit).
+2023-11-20 19:11:38.781 +01:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[OrderID], [r].[CreateDate], [r].[Email], [r].[Name], [r].[Phone], [r].[PickupDate], [r].[Priority], [r].[Service]
+FROM [Registrations] AS [r]
+2023-11-20 19:11:38.792 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Praxisarbeit.Model.RegistrationModel, Praxisarbeit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-20 19:11:38.798 +01:00 [INF] Executed action RegistrationController.Get (Praxisarbeit) in 72.5737ms
+2023-11-20 19:11:38.800 +01:00 [INF] Executed endpoint 'RegistrationController.Get (Praxisarbeit)'
+2023-11-20 19:11:38.807 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7113/api/Registration - - - 200 - application/json;+charset=utf-8 113.6809ms
