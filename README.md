@@ -2,7 +2,7 @@
 
 ## Initialisieren
 ### Projektbeteiligte
-- Projektleiter: Nesim Abdelaziz
+- Projektleiter und Entwickler : Nesim Abdelaziz
 
 ### Projektziel
 Das Projekt wurde initiiert, um die interne Verwaltung der Ski-Service Aufträge der Firma Jetstream-Service zu digitalisieren und über eine Web- und Datenbank-basierte Anwendung abzuwickeln. Der Fokus liegt auf der Erweiterung der bestehenden Online-Anmeldung um Funktionen für das Auftragsmanagement.
