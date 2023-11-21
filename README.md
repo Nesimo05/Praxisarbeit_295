@@ -41,9 +41,6 @@ Intensive Zusammenarbeit im Team führte zur erfolgreichen Implementierung von A
 - Codeüberprüfungen und Peer Reviews wurden durchgeführt
 - Umfassende Tests und Überprüfungen der Authentifizierung und Datenbankzugriffe
 
-### Feedback und Anpassungen
-- Kontinuierlicher Austausch mit Teammitgliedern und Projektleiter
-- Schnelle Anpassungen basierend auf Rückmeldungen und Lernerfahrungen
 
 ## Auswerten
 ### Evaluierung und Empfehlungen
